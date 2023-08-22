@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Android Developer
 - 📫 How to reach me: ...kakdiyasavan3@gmail.com
 - 💼 All Are my Project Avalible : https://github.com/kakadiyasavan
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Linkedin : ...https://www.linkedin.com/in/kakadiya-savan-239329286/
+<!--- ⚡ Fun fact: ... -->
 
