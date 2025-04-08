@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...Country Api Calling
-- 🌱 I’m currently learning ...Android
+- 🔭 I’m currently working on ...Java,Python,MongoDB,MySQL,DSA
+- 🌱 I’m currently learning ...Full Stack
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about ...Android Developer
+<!-- - 💬 Ask me about ...Android Developer -->
 - 📫 How to reach me: ...kakdiyasavan3@gmail.com
 - 💼 All Are my Project Avalible : https://github.com/kakadiyasavan
 - 😄 Linkedin : ...https://www.linkedin.com/in/kakadiya-savan-239329286/
