@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ...Android Developer -->
 - 📫 How to reach me: ...kakdiyasavan3@gmail.com
-- 💼 All Are my Project Avalible : https://github.com/kakadiyasavan
-- 😄 Linkedin : ...https://www.linkedin.com/in/kakadiya-savan-239329286/
+- 💼 All Are my Project Avalible : www.github.com/kakadiyasavan
+- 😄 Linkedin : ...www.linkedin.com/in/savan-kakadiya
 <!--- ⚡ Fun fact: ... -->
 
 
