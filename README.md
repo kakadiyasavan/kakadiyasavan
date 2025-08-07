@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...Java,Python,MongoDB,MySQL,DSA
+- 🔭 I’m currently working on ...Java,Python,MongoDB,MySQL,DSA,HTML,CSS,JavaScript
 - 🌱 I’m currently learning ...Full Stack
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
