@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ...FrontEnd,Backend,Quality Assurance
+- 🔭 I’m currently working on ...Quality Assurance
 - 🌱 I’m currently learning ...Quality Assurance
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ...Android Developer -->
-- 📫 How to reach me: ...kakdiyasavan3@gmail.com
+- 📫 How to reach me: ...kakadiasavan11@gmail.com
 - 💼 All Are my Project Avalible : www.github.com/kakadiyasavan
 - 😄 Linkedin : ...www.linkedin.com/in/savan-kakadiya
 <!--- ⚡ Fun fact: ... -->
